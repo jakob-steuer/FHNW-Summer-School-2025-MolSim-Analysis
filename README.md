@@ -11,7 +11,7 @@ You can run this entire workshop in your browser using Google Colab.
 
 Click the link below to open the workshop notebook directly from this GitHub repository into Google Colab.
 
-https://colab.research.google.com/github/jakob-steuer/FHNW-Summer-School-2025-MolSim-Analysis/jnb_summerschool_mol_sim_analysis.ipynb
+https://colab.research.google.com/github/jakob-steuer/FHNW-Summer-School-2025-MolSim-Analysis/blob/main/jnb_summerschool_mol_sim_analysis.ipynb
 
 2. Download the Data
 
